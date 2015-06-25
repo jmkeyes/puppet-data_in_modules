@@ -1,0 +1,12 @@
+{
+  "name": "jmkeyes-data_in_modules",
+  "version": "0.0.1",
+  "author": "jmkeyes",
+  "summary": "A terrible Puppet Module demonstrating storing 'data in modules'.",
+  "license": "Apache-2.0",
+  "source": "https://github.com/jmkeyes/puppet-data_in_modules.git",
+  "project_page": "https://github.com/jmkeyes/puppet-data_in_modules",
+  "issues_url": "https://github.com/jmkeyes/puppet-data_in_modules/issues",
+  "dependencies": []
+}
+
